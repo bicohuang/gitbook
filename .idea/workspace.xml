@@ -3,23 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e10c4507-8e1f-4f65-bdfa-6d70a2f113d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/form.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/form.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/HTML/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/HTML/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/HTML/li.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/HTML/li.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/HTML/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/HTML/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/HTML/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/HTML/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/tool/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/tool/git.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/tool/gitbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/tool/gitbook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/tool/gulp.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/tool/gulp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/tool/mu.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/tool/mu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/tool/nodejs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/tool/nodejs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/tool/scss.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/tool/scss.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tool/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/tool/git.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tool/mu.md" beforeDir="false" afterPath="$PROJECT_DIR$/tool/mu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tool/nodejs.md" beforeDir="false" afterPath="$PROJECT_DIR$/tool/nodejs.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,54 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/mu.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tool/git.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="421">
-                <caret line="49" selection-start-line="49" selection-end-line="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/list.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/nodejs.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="693">
-                <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,16 +34,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="1W328yzgIc39ahA8PTUuXpaikUF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,11 +62,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
@@ -165,7 +106,8 @@
       <workItem from="1566892893303" duration="220000" />
       <workItem from="1566893309796" duration="783000" />
       <workItem from="1567042631029" duration="1900000" />
-      <workItem from="1567064723707" duration="2377000" />
+      <workItem from="1567064723707" duration="3316000" />
+      <workItem from="1568963010317" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1566789293519</created>
@@ -174,17 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1566789293519</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1567388292248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567388292248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10697000" />
+    <option name="totallyTimeSpent" value="11638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18409742" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18696275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,7 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml" />
@@ -263,14 +212,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/list.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/HTML1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -279,16 +220,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2121">
             <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tool/nodejs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="693">
-            <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -331,8 +262,26 @@
     <entry file="file://$PROJECT_DIR$/tool/git.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="421">
-            <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <first_editor relative-caret-position="486">
+            <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/nodejs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="337">
+            <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
