@@ -10,10 +10,10 @@
 <form  name="reg" action="reg.php" method="post">
 			姓名：
 			<input type="text" name="username" id="" value="" /><br />
-			
-			<input type="submit" value="确定"/>
 </form>
-    
+```html
+<input type="submit" value="确定"/> 
+```
 ```html
 <form  name="reg" action="reg.php" method="post">
 			<input type="text" name="username" id="" value="" /><br />
@@ -24,7 +24,7 @@
 ```
 > **备注**:form表单是用户用来提交数据的方式之一
 
-    
+
 [参考链接](http://baidu.com)
 ![百度](https://www.baidu.com/img/bd_logo1.png)
 
@@ -50,7 +50,7 @@
 5. `readonly` &nbsp;是一个单属性，通常只需要把属性名字写上即可，表示该属性只读，不允许修改，不影响数据的提交 
 6. `disebled` &nbsp;也是一个单属性，表示禁用，不允许修改和提交
 7. `placeholder`&nbsp; 用来显示提示
-    
+   
 ```html
 <input type="text" name="username"value="bgg"
 	maxlength="15" placeholder="请输入用户名" readonly disabled/>
@@ -75,7 +75,7 @@
 <input type="file" name="file" id="file"/>
 ```
 > 备注：其中，只有`type`为submit和image的按钮默认具有提交表单的功能
-    
+
 ##3、textarea标签
 1. 文本域 用于接收较多文字的输入
 
@@ -84,7 +84,7 @@
 ```
 > 备注:要注意文本域的值是写在标签对之间，并且把所有的空格和换行记录并显示出来,如果想要禁止改变文本域的大小需要css属性的**resize: none;**
 
-     
+
 ##3、select下拉菜单
 ```html
 <select name="city">
@@ -98,5 +98,5 @@
 ```
 > 备注1：单选模式的话，跟单选框类似，只能选其一，如果需要设置默认选中，则给相应的选项设置`selected`属性
 > 备注2：多选模式，需要给select标签增加nultiple属性，并且`name`属性最好带**[  ]中括号**
-    
+
 #[caniuse.com](http://www.caniuse.com) 查询兼容性
