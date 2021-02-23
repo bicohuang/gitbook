@@ -16,5 +16,5 @@
         * [第一节](Reception/CSS/first.md)
         * 第二节
 * [Vue知识](Vue/list.md)
-    * 第一章 
+    * 第一章
 

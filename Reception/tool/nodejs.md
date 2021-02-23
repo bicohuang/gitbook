@@ -1,4 +1,4 @@
-##Nodejs如何安装
+## Nodejs如何安装
 1、首先下载安装包 
 
 官网：[点我](http://nodejs.cn/)

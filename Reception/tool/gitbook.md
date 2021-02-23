@@ -1,4 +1,4 @@
-#gitbook安装与使用
+# gitbook安装与使用
 1. 首先在全局安装 gitbook 客户端工具：
 ```
     npm install gitbook-cli -g
@@ -53,5 +53,5 @@
 ```
     gitbook ls-remote           //罗列出所有的版本号
     gitbook fetch 2.1.0         //选择其中一个版本切换安装
- ```
+```
 8. 更多插件 [参考链接](http://www.tuicool.com/articles/zee2ui)

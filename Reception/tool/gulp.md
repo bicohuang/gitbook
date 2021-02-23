@@ -1,6 +1,6 @@
-#1、gulp的安装与使用
+# 1、gulp的安装与使用
 
-##1、gulp的安装
+## 1、gulp的安装
 
 1. 进行`gulp`的下载
 	- `npm install cnpm -g --registry=https://registry.npm.taobao.org`   
@@ -21,7 +21,7 @@
 
 > **备注：**在项目的当前路径运行 `cmd`
 
-##2、gulp的使用
+## 2、gulp的使用
 
 - 运行 `gulp`
 - 每次写完页面后，再次运行 `gulp dev`

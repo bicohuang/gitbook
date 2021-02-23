@@ -1,6 +1,7 @@
-##form表单笔记
+## form表单笔记
 
-##1、form标签的使用
+## 1、form标签的使用
+
 1. `name`属性 &nbsp;用来区分多个表单
 2. `action`属性&nbsp;用来指明处理表单数据的人是谁
 3. `method` 属性&nbsp;表示数据的传输方式
@@ -24,14 +25,14 @@
 ```
 > **备注**:form表单是用户用来提交数据的方式之一
 
-
 [参考链接](http://baidu.com)
 ![百度](https://www.baidu.com/img/bd_logo1.png)
 
 
 
-##2、input标签的使用
+## 2、input标签的使用
 表单家族里面最大的单个元素了，因为他有多个类型 所以功能也是最多的
+
 1. `type`属性&nbsp; 表示输入框的具体类型
 	- `text`  文字输入框 &nbsp;用于输入文字 
 	- `password`   &nbsp;密码输入 输入的文字会以`*`表示
@@ -76,7 +77,8 @@
 ```
 > 备注：其中，只有`type`为submit和image的按钮默认具有提交表单的功能
 
-##3、textarea标签
+## 3、textarea标签
+
 1. 文本域 用于接收较多文字的输入
 
 ```html
@@ -84,8 +86,8 @@
 ```
 > 备注:要注意文本域的值是写在标签对之间，并且把所有的空格和换行记录并显示出来,如果想要禁止改变文本域的大小需要css属性的**resize: none;**
 
+## 4、select下拉菜单
 
-##3、select下拉菜单
 ```html
 <select name="city">
 <option value="0"selected>   </option>
